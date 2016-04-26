@@ -1,14 +1,3 @@
-/**
- * Program Name: Cis36aFall2015ToniviTruongLab1Ex1.Java 
- * Discussion: Lab 1
- * Exercise 1 
- * Written By: Tonivi Truong 
- * Date: 2015/09/10
- */
-package cis.pkg36a.fall.pkg2015.tonivi.truong.lab.pkg1.ex.pkg1;
-
-
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -89,47 +78,3 @@ public class Cis36a25Fall20015ToniviTruongLab1Ex1 {
         return index;
     }      
 }
-
-/* PROGRAM OUTPUT
-CIS 36A - Java Programing
-Laney College
-Tonivi Truong
-Assignment Information --
-  Assignment Number: Lab 01,
-		     Coding Assignment -- Exersice #1
-  Written by:	     Tonivi Truong
-  Submetted Date     09/08/2015
-
-********************MENU*******************
-*  (1) Calling getMostOccurredDigit()     *
-*  (2) Quit                               *
-*******************************************
-Enter Your option (1 or 2): 1
-Enter an Integer: 123444034
-The digit occurred most in: 123444034 is: 4
-********************MENU*******************
-*  (1) Calling getMostOccurredDigit()     *
-*  (2) Quit                               *
-*******************************************
-Enter Your option (1 or 2): 1
-Enter an Integer: -390345505
-The digit occurred most in: -390345505 is: 5
-********************MENU*******************
-*  (1) Calling getMostOccurredDigit()     *
-*  (2) Quit                               *
-*******************************************
-Enter Your option (1 or 2): 1
-Enter an Integer: 39034550
-The digit occurred most in: 39034550 is: 0
-********************MENU*******************
-*  (1) Calling getMostOccurredDigit()     *
-*  (2) Quit                               *
-*******************************************
-Enter Your option (1 or 2): 2
-Working Good!
-*/
-
-/* COMMENTS 
-NO COMMENTS
-*/
-    
