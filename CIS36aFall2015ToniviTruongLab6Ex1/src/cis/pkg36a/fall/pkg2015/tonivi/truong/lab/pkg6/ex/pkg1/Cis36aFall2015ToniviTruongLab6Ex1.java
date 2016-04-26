@@ -1,11 +1,3 @@
- /*
- * Project Name : CIS36aFall2015ToniviTruongLab6Ex1.java
- * Discussion :   Main
- * Written By :   Tonivi Truong
- * Date :         2015/12/1
- */
-package cis.pkg36a.fall.pkg2015.tonivi.truong.lab.pkg6.ex.pkg1;
-
 import java.util.Scanner;
 
 public class CIS36aFall2015ToniviTruongLab6Ex1 {
