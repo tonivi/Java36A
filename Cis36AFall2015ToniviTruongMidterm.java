@@ -1,11 +1,3 @@
-/**
- * Program Name: Cis36aFall2015ToniviTruongMidtermQuiz.java 
- * Discussion: MidtermQuiz 
- * Written By: Tonivi Truong 
- * Date: 11/14/15
- */
-package midterm;
-
 import java.util.Scanner;
 
 public class Midterm {
