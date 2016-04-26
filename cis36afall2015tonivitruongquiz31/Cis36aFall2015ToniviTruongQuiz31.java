@@ -1,17 +1,5 @@
-/**
- * Program Name: Cis36aFall2015ToniviTruongQuiz31.java 
- * Discussion: Quiz31
- * Written By: Tonivi Truong 
- */
-
-package cis36afall2015tonivitruongquiz31;
-
 import java.util.Scanner;
 
-/**
- *
- * @author Tonivi
- */
 public class Cis36aFall2015ToniviTruongQuiz31 {
 
     public static void main(String[] args) {
